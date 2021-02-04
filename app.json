@@ -1,0 +1,12 @@
+{
+  "name": "gdt",
+  "displayName": "gdt",
+  "expo": {
+    "name": "gdt",
+    "slug": "gdt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
